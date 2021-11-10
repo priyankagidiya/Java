@@ -1,0 +1,5 @@
+
+Message=Good Morning
+Id1=1111
+Class=Batch1
+Name=Good

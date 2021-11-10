@@ -1,0 +1,7 @@
+#Writing a File
+#Fri Oct 22 09:23:53 PDT 2021
+Message=Good Evening
+Id1=2222
+Class=Batch2
+Name=Abc
+I can append in fileI can append in file
